@@ -16,6 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"Esta es mi primera app con GitHub");
+    
+    NSLog(@"otro cambio");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
